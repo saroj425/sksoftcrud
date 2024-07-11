@@ -1,0 +1,10 @@
+.form-div{
+    width: 60%;
+    margin: 0 auto;
+    background: burlywood;
+    padding: 30px;
+    border-radius: 10px
+}
+.form-div,.form-control{
+    font-size: 13px !important;
+}
